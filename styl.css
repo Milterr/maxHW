@@ -1,0 +1,18 @@
+.Beg{
+    text-align:center;
+    text-shadow: 1px 5px 2px gray;
+    font-style: italic;
+    font-size: 24px;
+}
+.p-1{
+    text-align:center;
+    text-shadow: 1px 5px 2px cyan;
+    font-style: italic;
+    font-size: 24px;
+
+}
+.imege{
+    display: block;
+    margin-left: auto;
+    margin-right: auto
+}
